@@ -1,4 +1,4 @@
-# Board Game
+# Chogi
 
 A networked board game application featuring a Python client that communicates with a local server to facilitate multiplayer gameplay.
 
